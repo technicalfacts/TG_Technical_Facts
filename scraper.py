@@ -12,12 +12,12 @@ cy="\033[1;36m"
 
 def banner():
     print(f"""
-{re}╔╦╗{cy}┌─┐┬  ┌─┐{re}╔═╗  ╔═╗{cy}┌─┐┬─┐┌─┐┌─┐┌─┐┬─┐
-{re} ║ {cy}├┤ │  ├┤ {re}║ ╦  ╚═╗{cy}│  ├┬┘├─┤├─┘├┤ ├┬┘
-{re} ╩ {cy}└─┘┴─┘└─┘{re}╚═╝  ╚═╝{cy}└─┘┴└─┴ ┴┴  └─┘┴└─
+{re}╔╦╗{cy}┌─┐┬  ┌─┐{re}╔═╗  ╔═╗
+{re} ║ {cy}├┤ │  ├┤ {re}║ ╦  ╚═╗
+{re} ╩ {cy}└─┘┴─┘└─┘{re}╚═╝  ╚═╝
 
             version : 1.0
-        youtube.com/theunknon
+        youtube.com/technicalfactshindi
         """)
 
 cpass = configparser.RawConfigParser()
