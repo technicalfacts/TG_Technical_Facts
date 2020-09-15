@@ -1,5 +1,5 @@
 #!/bin/env python3
-# code by : youtube.com/theunknon
+# code by : youtube.com/technicalfactshindi
 
 """
 
@@ -39,4 +39,3 @@ setup.close()
 print(gr+"[+] setup complete !")
 print(gr+"[+] now you can run any tool !")
 print(gr+"[+] make sure to read docs 4 installation & api setup")
-print(gr+"[+] https://github.com/th3unkn0n/TeleGram-Scraper/blob/master/README.md")
